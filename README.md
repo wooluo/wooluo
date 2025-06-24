@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wooluo
 - 👀 I’m interested in watch movie
-- 🌱 I’m currently learning golang
+- 🌱 I’m currently learning Python
 
 <!---
 wooluo/wooluo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
