@@ -37,12 +37,6 @@
 **AI**：Ollama · LM Studio · MCP · Agent 工作流
 **交易**：thsdk · vnpy · 威科夫量价分析
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=wooluo&show_icons=true&include_all_commits=true" alt="wooluo's stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wooluo&layout=compact&langs_count=8" alt="top languages" />
-</p>
 
 ## 🏠 Homelab
 
