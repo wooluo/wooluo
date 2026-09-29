@@ -9,7 +9,8 @@ You can click the Preview link to take a look at your changes.
 
 
 
-https://github.com/user-attachments/assets/10694400-3874-4c2f-92bb-7f57af82e767
+<img width="1210" height="1138" alt="home-lan-diagram" src="https://github.com/user-attachments/assets/d605c76b-dda0-42c3-a4c2-210cd2a1fd59" />
+
 
 
 
